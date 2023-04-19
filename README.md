@@ -1,4 +1,4 @@
-# api_test
+# News app
 
 A new Flutter application.
 
